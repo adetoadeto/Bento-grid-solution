@@ -19,8 +19,8 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/adetoadeto/Bento-grid-solution)
+- Live Site URL: (https://adetoadeto.github.io/Bento-grid-solution/)
 
 ## My process
 
